@@ -1,8 +1,9 @@
 {
   "name": "folder-remark",
-  "displayName": "folder-remark",
-  "description": "",
-  "version": "0.0.1",
+  "displayName": "Folder Remark",
+  "icon": "favicon.png",
+  "description": "这是一个处理文件夹备注的插件。",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.72.0"
   },
@@ -30,6 +31,7 @@
       ]
     }
   },
+  "publisher": "wyling",
   "repository": {
     "url": "https://github.com/wyling007/folder-remark"
   },
