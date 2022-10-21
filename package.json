@@ -30,6 +30,9 @@
       ]
     }
   },
+  "repository": {
+    "url": "https://github.com/wyling007/folder-remark"
+  },
   "scripts": {
     "vscode:prepublish": "pnpm run compile",
     "compile": "tsc -p ./",
