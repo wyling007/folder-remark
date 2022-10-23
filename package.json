@@ -3,7 +3,7 @@
   "displayName": "Folder Remark",
   "icon": "favicon.png",
   "description": "这是一个处理文件夹备注的插件。",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.60.0"
   },
